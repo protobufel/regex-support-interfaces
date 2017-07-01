@@ -31,7 +31,7 @@ import java.util.regex.Matcher;
 
 /**
  * Extended Matcher for Extended Pattern.
- *  
+ *
  * @author protobufel@gmail.com David Tesler
  */
 @org.eclipse.jdt.annotation.NonNullByDefault
@@ -96,5 +96,4 @@ public interface IMatcherSupport {
   public int getLastAppendPosition();
 
   public IMatcherSupport setLastAppendPosition(int lastAppendPosition);
-
 }

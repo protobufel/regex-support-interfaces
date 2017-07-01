@@ -29,7 +29,7 @@ package regex;
 
 /**
  * All Extended Patterns must implement this interface.
- *  
+ *
  * @author protobufel@gmail.com David Tesler
  */
 @org.eclipse.jdt.annotation.NonNullByDefault
